@@ -7,7 +7,7 @@ export const AppContext = createContext();
 export const AppContextProvider = (props) => {
   axios.defaults.withCredentials = true;
 
-  const backendUrl = "https://chatsite-bot-main.onrender.com";
+  const backendUrl = import.meta.env.VITE_BACKEND_URL;
   const [isLoggedin, setIsLoggedIn] = useState(false);
   const [userData, setUserData] = useState(false);
 

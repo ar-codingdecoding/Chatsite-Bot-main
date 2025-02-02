@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-Your Name - [your-email@example.com](mailto:ar.bppimt@gmail.com)
+Your Name - [ar.bppimt2022@gmail.com](mailto:ar.bppimt2022@gmail.com)
 
 Project Link: [https://github.com/your-username/beyondchats](https://github.com/your-username/beyondchats)
 

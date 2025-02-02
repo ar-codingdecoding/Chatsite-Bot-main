@@ -34,7 +34,6 @@ BeyondChats is a user-friendly platform that allows businesses to easily set up 
   - React.js
   - Tailwind CSS
   - React Router DOM
-  - @react-oauth/google
   - Lucide React Icons
 
 - **Backend**

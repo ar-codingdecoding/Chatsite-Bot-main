@@ -48,7 +48,7 @@ BeyondChats is a user-friendly platform that allows businesses to easily set up 
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/beyondchats.git](https://github.com/ar-codingdecoding/Chatsite-Bot-main/tree/main)
+git clone https://github.com/ar-codingdecoding/Chatsite-Bot-main/tree/main
 cd beyondchats
 ```
 

@@ -110,14 +110,6 @@ beyondchats/
 
 ## 🔧 Configuration
 
-### Google OAuth Setup
-1. Go to the [Google Cloud Console](https://console.cloud.google.com)
-2. Create a new project
-3. Enable the Google OAuth2 API
-4. Create credentials (OAuth 2.0 Client ID)
-5. Add authorized JavaScript origins and redirect URIs
-6. Copy the Client ID to your environment variables
-
 ### MongoDB Setup
 1. Create a MongoDB Atlas account or use a local MongoDB instance
 2. Create a new cluster

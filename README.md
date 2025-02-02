@@ -3,7 +3,7 @@
 BeyondChats is a user-friendly platform that allows businesses to easily set up and integrate AI-powered chatbots into their websites. This project implements a full-stack MERN (MongoDB, Express.js, React.js, Node.js) solution for chatbot configuration and deployment.
 
 ## 🚀 Live Demo
-[Insert your deployed website URL here]
+[https://chatsite-bot-main-1.onrender.com/]
 
 ## ✨ Features
 
